@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Color Wallpapers</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="set_wall">Set Wallpaper</string>
+    <string name="copy_color">Copy Color</string>
+    <string name="color_label">#Color</string>
+    <string name="save_wall">Save Wallpaper</string>
+    <string name="wallpaper_set">Wallpaper Set</string>
+    <string name="image_saved">Image Saved</string>
+    <string name="image_title">Color</string>
+    <string name="image_description">Wallpaper</string>
+</resources>
